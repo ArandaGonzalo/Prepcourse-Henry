@@ -1,2 +1,2 @@
-# Prepcourse-Henry
-Repositorio de prueba del modulo 2 
+Este proyecto es una prueba de como crear un repositorio y clonarlo en mi escritorio local
+
